@@ -5,9 +5,6 @@ import com.idealo.shoppingcart.model.Sku;
 
 /**
  * This model defines the pricing rules corresponding to different SKU's.
- * 
- * @author Vishnu
- *
  */
 public class Item {
 	private final Sku sku;
