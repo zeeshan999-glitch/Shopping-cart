@@ -2,7 +2,6 @@ package com.idealo.shoppingcart.model;
 
 /**
  * This model defines the SKU's id with unit price.
- * @author Vishnu
  */
 public class Sku {
 	private final String id;
