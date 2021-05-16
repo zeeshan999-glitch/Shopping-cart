@@ -7,9 +7,6 @@ import java.util.Properties;
 /**
  * Application configuration loader class, to load configuration for pricing
  * rules and items.
- * 
- * @author Vishnu
- *
  */
 public class Config {
 	static Properties config = new Properties();
