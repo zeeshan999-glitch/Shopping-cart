@@ -2,9 +2,6 @@ package com.idealo.shoppingcart.model;
 
 /**
  * This Model defines the offered quantity and special Price for an item.
- * 
- * @author Vishnu
- *
  */
 public class Offer {
 	private final int offeredQuantity;
