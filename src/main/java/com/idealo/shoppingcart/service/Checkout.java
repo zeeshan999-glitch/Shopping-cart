@@ -9,8 +9,6 @@ import java.util.List;
 /**
  * This class is the backbone for entire application and process the items with
  * given pricing rules.
- * @author Vishnu
- *
  */
 public class Checkout {
 	private List<String> skuList = new LinkedList<String>();
