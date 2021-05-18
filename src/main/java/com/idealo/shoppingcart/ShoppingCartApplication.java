@@ -7,7 +7,7 @@ import com.idealo.shoppingcart.service.Checkout;
 /**
  * Applications class with main method.
  * 
- * @author Vishnu
+ * @author zisu
  * 
  */
 public class ShoppingCartApplication {
