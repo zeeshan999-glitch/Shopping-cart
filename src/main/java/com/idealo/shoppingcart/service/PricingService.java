@@ -10,7 +10,7 @@ import com.idealo.shoppingcart.model.Item;
  * This class is the implementation of Pricing Interface and process the
  * given SKU's w.r.t pricing rules.
  * 
- * @author Vishnu
+ * @author zisu
  * 
  */
 public class PricingService implements Pricing {
